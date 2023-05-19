@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4666,
+    "height" : 6604
+  }, {
+    "width" : 7000,
+    "height" : 9906
+  }, {
+    "width" : 14000,
+    "height" : 19813
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 14000,
+  "@id" : "https://retrogram.jezik.hr/gramatike/lanosovic/iiif/169",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 19813
+}
