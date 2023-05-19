@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 14000,
-  "@id" : "https://retrogram.jezik.hr/gramatike/lanosovic/iiif/71",
+  "@id" : "https://borna12.github.io/iiif-lanosovic/iiif/71",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 19815
 }
